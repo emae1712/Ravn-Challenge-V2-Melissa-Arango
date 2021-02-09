@@ -23,9 +23,4 @@ The present Ravn GraphQL Code Challenge web application consisted of navigating 
 
 ## 2. Objetivos de aprendizaje
 
-El objetivo principal de aprendizaje de este proyecto es construir una
-[Single-page Application (SPA)](https://es.wikipedia.org/wiki/Single-page_application) que se adapte 
-al patrón modelo - vista - controlador [MVC](https://es.wikipedia.org/wiki/Modelo%E2%80%93vista%E2%80%93controlador)
-y que sea [_responsive_](https://github.com/Laboratoria/curricula-js/tree/master/topics/css/02-responsive)
- (con más de una vista / página) en la que podamos **leer, escribir, actualizar y
- eliminar datos.**
+The main objective of this application was to deploy a project using React js, taking into consideration good code and style practices. In this project the Bootstrap library was used, making the project responsive, the Apollo client library to consume the data from the Star Wars GraphQL API and some complementary styles in Saas.
