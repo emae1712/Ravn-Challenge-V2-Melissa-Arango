@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Ravn-Challenge-V2-Melissa-Arango/static/css/main.61d07799.chunk.css",
+    "main.js": "/Ravn-Challenge-V2-Melissa-Arango/static/js/main.b443fd17.chunk.js",
+    "main.js.map": "/Ravn-Challenge-V2-Melissa-Arango/static/js/main.b443fd17.chunk.js.map",
+    "runtime-main.js": "/Ravn-Challenge-V2-Melissa-Arango/static/js/runtime-main.133d4d72.js",
+    "runtime-main.js.map": "/Ravn-Challenge-V2-Melissa-Arango/static/js/runtime-main.133d4d72.js.map",
+    "static/js/2.fead654d.chunk.js": "/Ravn-Challenge-V2-Melissa-Arango/static/js/2.fead654d.chunk.js",
+    "static/js/2.fead654d.chunk.js.map": "/Ravn-Challenge-V2-Melissa-Arango/static/js/2.fead654d.chunk.js.map",
+    "static/js/3.bbca02ac.chunk.js": "/Ravn-Challenge-V2-Melissa-Arango/static/js/3.bbca02ac.chunk.js",
+    "static/js/3.bbca02ac.chunk.js.map": "/Ravn-Challenge-V2-Melissa-Arango/static/js/3.bbca02ac.chunk.js.map",
+    "index.html": "/Ravn-Challenge-V2-Melissa-Arango/index.html",
+    "static/css/main.61d07799.chunk.css.map": "/Ravn-Challenge-V2-Melissa-Arango/static/css/main.61d07799.chunk.css.map",
+    "static/js/2.fead654d.chunk.js.LICENSE.txt": "/Ravn-Challenge-V2-Melissa-Arango/static/js/2.fead654d.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.133d4d72.js",
+    "static/js/2.fead654d.chunk.js",
+    "static/css/main.61d07799.chunk.css",
+    "static/js/main.b443fd17.chunk.js"
+  ]
+}
