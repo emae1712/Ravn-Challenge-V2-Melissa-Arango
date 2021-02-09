@@ -10,8 +10,8 @@
 >Ravn GraphQL Code Challenge
 ## Index
 
-* [1. Resumen del proyecto](#1-resumen-del-proyecto)
-* [2. Objetivos de aprendizaje](#2-Objetivos-de-aprendizaje)
+* [1. Resumen del proyecto](#1-project-summary)
+* [2. Objetivos de aprendizaje](#2-learning-objectives)
  
 ## 1. 🧐Project summary
 The present Ravn GraphQL Code Challenge web application consisted of navigating the Star Wars GraphQL API, showing the main characteristics of the characters. It is a query application.
