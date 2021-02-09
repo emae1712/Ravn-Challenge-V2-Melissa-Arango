@@ -1,13 +1,13 @@
 <p align="center">
-  <a title="Travel-In" target="_blank" href= "https://emae1712.github.io/LIM013-fe-social-network/src/">
-    <img  src="https://i.ibb.co/Y2TYb6y/TravelIn.jpg" alt="Travel-In">
+  <a title="Ravn" target="_blank" href= "https://emae1712.github.io/Ravn-Challenge-V2-Melissa-Arango/">
+    <img src="https://i.ibb.co/wQCVJHw/tablet.jpg" alt="tablet" border="0">
   </a>
 </p>
 
 
-# Travel In ✈️
-### Made by [Arango M.](https://github.com/emae1712), [Goche C.](https://github.com/consuelogoche-1994) & [Pariona M.](https://github.com/MarycieloParionaBernaola)
->Social Network project
+# Star Wars Web ✈️
+### Made by [Arango Melissa](https://github.com/emae1712)
+>Ravn GraphQL Code Challenge
 ## Índice
 
 * [1. Resumen del proyecto](#1-resumen-del-proyecto)
@@ -18,7 +18,7 @@
 * [6. Objetivos de aprendizaje](#6-Objetivos-de-aprendizaje)
  
 ## 1. 🧐Resumen del proyecto 
-El presente proyecto, **_TRAVEL IN_**, es una Red social destinada a personas interesadas en compartir sus experiencias de viajes, tips, recomendaciones y demás que puedan ser de utilidad para otros amantes de los viajes o que quieran iniciar en esta actividad. Esta red social te permitirá crear una cuenta de acceso y loguearse con ella; crear, editar, borrar, comentar y "likear" publicacciones, todo de forma dinámica.
+The present Ravn GraphQL Code Challenge web application consisted of navigating the Star Wars GraphQL API, showing the main characteristics of the characters. It is a query application.
 
 <p align="center">
   <img  src="https://i.ibb.co/wNH1hVb/ezgif-com-gif-maker.gif" alt="Travel-In">
