@@ -1,70 +1,53 @@
-# Getting Started with Create React App
+<p align="center">
+  <a title="Travel-In" target="_blank" href= "https://emae1712.github.io/LIM013-fe-social-network/src/">
+    <img  src="https://i.ibb.co/Y2TYb6y/TravelIn.jpg" alt="Travel-In">
+  </a>
+</p>
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
+# Travel In ✈️
+### Made by [Arango M.](https://github.com/emae1712), [Goche C.](https://github.com/consuelogoche-1994) & [Pariona M.](https://github.com/MarycieloParionaBernaola)
+>Social Network project
+## Índice
 
-In the project directory, you can run:
+* [1. Resumen del proyecto](#1-resumen-del-proyecto)
+* [2. Definición del producto](#2-definición-del-producto)
+* [3. Historias de usuario](#3-historias-de-usuario)
+* [4. Diseño de Interfaz de Usuario](#4-diseño-de-interfaz-de-usuario)
+* [5. Test de usabilidad](#5-Test-de-usabilidad)
+* [6. Objetivos de aprendizaje](#6-Objetivos-de-aprendizaje)
+ 
+## 1. 🧐Resumen del proyecto 
+El presente proyecto, **_TRAVEL IN_**, es una Red social destinada a personas interesadas en compartir sus experiencias de viajes, tips, recomendaciones y demás que puedan ser de utilidad para otros amantes de los viajes o que quieran iniciar en esta actividad. Esta red social te permitirá crear una cuenta de acceso y loguearse con ella; crear, editar, borrar, comentar y "likear" publicacciones, todo de forma dinámica.
 
-### `npm start`
+<p align="center">
+  <img  src="https://i.ibb.co/wNH1hVb/ezgif-com-gif-maker.gif" alt="Travel-In">
+</p>
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+## 2. 👩‍💻Definición del producto
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+<p >
+  <img align="right" height="500px" src="https://i.ibb.co/BwSJcpB/Travelin-celular.gif" alt="Travelin-celular">
+</p>
 
-### `npm test`
+El proyecto se inspiró en las redes sociales actuales, tales como Instagram, Snapchat, Twitter, Facebook, Twitch, Linkedin, etc. Estas redes
+sociales han invadido nuestras vidas, las cuales amamos u odiamos, y muchos no podemos vivir sin ellas. 
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+A raiz de esto, decidimos crear una red social destinada a un objetivo en común, **viajes**. Las redes sociales ya mencionadas, se concentran en captar personas con diferentes intereses. Es por ello, que la red social que hemos realizado se centra en un público usuario que quiera compartir sus experiencias o motivar a otros usuarios a viajar. Hoy en día, diferentes estudios recomiendan viajar, no solo porque es una actividad placentera, sino por los múltiples beneficios tanto para la _salud física_ como para la _salud mental_.
 
-### `npm run build`
+El proyecto se basó en un sistema de cuentas de usuario, siendo lo que las redes sociales actuales utilizan para garantizar la seguridad y la organización en un sistema con muchos usuarios. Ajustándonos a los requerimientos, contamos con las siguientes secciones: 
+* **_Sign In_**
+* **_Sign Up_**
+* **_Recover Password_**
+* **_Home_** dónde el usuario podrá crear, editar, comentar eliminar y reaccionar (*Like* o *Let's go!*) publicaciones tanto suyas como de otros usuarios
+* **_Profile_** que es el perfil del usuario y dónde verá sus propias publicaciones, sean públicas o privadas y también editarlas, y
+* **_Log out_** con el que cerrará sesión. 
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+## 6. Objetivos de aprendizaje
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
-
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
-
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+El objetivo principal de aprendizaje de este proyecto es construir una
+[Single-page Application (SPA)](https://es.wikipedia.org/wiki/Single-page_application) que se adapte 
+al patrón modelo - vista - controlador [MVC](https://es.wikipedia.org/wiki/Modelo%E2%80%93vista%E2%80%93controlador)
+y que sea [_responsive_](https://github.com/Laboratoria/curricula-js/tree/master/topics/css/02-responsive)
+ (con más de una vista / página) en la que podamos **leer, escribir, actualizar y
+ eliminar datos.**
