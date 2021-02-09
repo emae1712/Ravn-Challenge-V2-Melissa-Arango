@@ -5,7 +5,7 @@
 </p>
 
 
-# Star Wars Web ✈️
+# Star Wars Web 🚀
 ### Made by [Arango Melissa](https://github.com/emae1712)
 >Ravn GraphQL Code Challenge
 ## Índice
@@ -17,7 +17,8 @@
 The present Ravn GraphQL Code Challenge web application consisted of navigating the Star Wars GraphQL API, showing the main characteristics of the characters. It is a query application.
 
 <p align="center">
-  <img  src="https://i.ibb.co/wNH1hVb/ezgif-com-gif-maker.gif" alt="Travel-In">
+  <<img src="https://i.ibb.co/PCkTy4Z/cellphone-loading.jpg" alt="cellphone-loading" height="400px">
+  <img src="https://i.ibb.co/sHcycLH/cellphone.jpg" alt="cellphone" border="0" height="400px">
 </p>
 
 ## 2. Objetivos de aprendizaje
